@@ -31,8 +31,8 @@ list-style: square
  " >websites</h2></li>
 
 <div id="a1" style="display: inline;  text-decoration: none;">
-   <a href="http://www.baidu.com/"  target="_blank" style="background-color: #C0C0C0; text-decoration: none;">my_Github!</a>
-   <a href="http://www.runoob.com/" target="_blank" style="background-color: #C0C0C0; text-decoration: none;">my_Github!</a>
+   <a href="http://www.baidu.com/"  target="_blank" style="background-color: #C0C0C0; text-decoration: none;">baidu</a>
+   <a href="https://github.com/AINIforever/AINIforever.github.io" target="_blank" style="background-color: #C0C0C0; text-decoration: none;">my_Github</a>
 </div>
 <p></p>
 <li><h2 align="left" class="Heading" style="color:white
